@@ -1,4 +1,4 @@
-import { Period } from "parking-service-example/domain/period";
+import { Period } from "domain/period";
 
 let period: Period;
 

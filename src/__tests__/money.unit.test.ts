@@ -1,4 +1,4 @@
-import { Money } from "parking-service-example/domain/money";
+import { Money } from "domain/money";
 
 test("Deve criar corretamente", () => {
   const money = new Money(10);

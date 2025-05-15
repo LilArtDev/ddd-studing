@@ -1,4 +1,4 @@
-import { ParkedCar } from "parking-service-example/domain/parked-car";
+import { ParkedCar } from "domain/parked-car";
 
 let parkedCar: ParkedCar;
 

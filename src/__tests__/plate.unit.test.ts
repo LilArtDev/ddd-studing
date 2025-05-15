@@ -1,4 +1,4 @@
-import { Plate } from "parking-service-example/domain/plate";
+import { Plate } from "domain/plate";
 
 test("Deve criar corretamente", () => {
   const plate = new Plate("FAE2204");
